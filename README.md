@@ -36,3 +36,4 @@ Segmento Objetivo:
 - Estudiantes de Tecnología: Estudiantes que buscan expandir su red profesional y aprender de expertos en el campo.
 - Emprendedores en Tecnología: Fundadores y equipos de startups tecnológicas que desean conectar con potenciales socios, inversores, y mentores.
 
+Avanze de nuetro trabajo en el siguiente enlace: https://trello.com/b/j8qgAuYw/eventostecnologicos
