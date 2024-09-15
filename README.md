@@ -5,8 +5,10 @@ VenTech es una aplicación web diseñada para facilitar la organización y parti
 El objetivo de VenTech es ofrecer una plataforma integrada que combina la facilidad de organización y participación en eventos de tecnología, networking y aprendizaje colaborativo, todo en un entorno seguro y amigable.
 
 Colaboradores del Proyecto
-Nombre	Rol	Perfil
-[Incluir nombres de los colaboradores y sus roles]
+Nombre	
+Vasquez Castillo Jherson 
+Rol
+Lider proyecto
 
 Funcionalidades de la aplicación VenTech
 
