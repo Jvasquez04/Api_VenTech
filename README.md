@@ -34,4 +34,3 @@ Segmento Objetivo:
 - Estudiantes de Tecnología: Estudiantes que buscan expandir su red profesional y aprender de expertos en el campo.
 - Emprendedores en Tecnología: Fundadores y equipos de startups tecnológicas que desean conectar con potenciales socios, inversores, y mentores.
 
-[Incluir detalles adicionales sobre la estructura del tablero de Trello, columnas y tipos de tareas, si aplicable]
