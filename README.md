@@ -3,11 +3,23 @@ Introducción
 VenTech es una aplicación web diseñada para facilitar la organización y participación en eventos de tecnología y networking. La plataforma permitirá a los usuarios crear, buscar y unirse a eventos relacionados con sus intereses tecnológicos, conectar con otros profesionales y compartir conocimientos. Este proyecto académico está diseñado para que los estudiantes desarrollen una aplicación que promueva el aprendizaje colaborativo y la creación de comunidades en el campo de la tecnología.
 
 El objetivo de VenTech es ofrecer una plataforma integrada que combina la facilidad de organización y participación en eventos de tecnología, networking y aprendizaje colaborativo, todo en un entorno seguro y amigable.
+Colaboradores del Proyecto
 
-Colaboradores del Proyecto:
-Vasquez Castillo Jherson 
-Rol
-Lider proyecto
+| **Nombre**                        | **Rol**                                     | 
+|-----------------------------------|---------------------------------------------|
+| Vasquez Castillo Jherson      | Líder del Proyecto |    
+
+### Revisa el Progreso del Proyecto BookHub
+
+| **Columna**       | **Descripción**                                                                                                                                    |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Backlog**       | Contiene todas las historias de usuario, tareas y características que deben desarrollarse. Es el listado de todo el trabajo pendiente.              |
+| **En Progreso**   | Incluye las tareas que están actualmente en desarrollo. Visualiza el trabajo en curso para asegurar el flujo continuo de trabajo.                   |
+| **Revisión**      | Después de completar una tarea, se mueve aquí para una revisión de código y revisión por pares (peer review). Esta fase incluye la creación de **pull requests** para asegurar que el código cumpla con los estándares de calidad antes de integrarse al proyecto principal. |
+| **En Pruebas**    | Contiene las tareas que han pasado la revisión de código y necesitan pruebas exhaustivas (unitarias, de integración y de aceptación) para garantizar su calidad. |
+| **Hecho**         | Las tareas completamente desarrolladas, revisadas y probadas se mueven aquí, indicando que están listas y finalizadas.                               |
+
+Mira cómo va avanzando nuestro trabajo visitando el siguiente enlace: [Tablero de Trello]([https://trello.com/b/5sNtLdze](https://trello.com/b/j8qgAuYw/eventostecnologicos).
 
 Funcionalidades de la aplicación VenTech
 
@@ -35,4 +47,4 @@ Segmento Objetivo:
 - Estudiantes de Tecnología: Estudiantes que buscan expandir su red profesional y aprender de expertos en el campo.
 - Emprendedores en Tecnología: Fundadores y equipos de startups tecnológicas que desean conectar con potenciales socios, inversores, y mentores.
 
-Avanze de nuetro trabajo en el siguiente enlace: https://trello.com/b/j8qgAuYw/eventostecnologicos
+
