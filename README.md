@@ -50,17 +50,29 @@ Mira cómo va avanzando nuestro trabajo visitando el siguiente enlace: [Tablero 
   
 ### Asignación de Historias de Usuario
 
-**Sprint 1:** Funcionalidades Básicas  
+**Sprint 1:** 
+
  
+| Integrante  | Módulo                       | Historia de Usuario                                                   | Descripción                                                                                                                                      |  
+|-------------|------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------||
+| Integrante 1| Gestión de usuario       | Historia de Usuario 1: Registro de usuario.                              | Como usuario, quiero registrarme en la plataforma para poder acceder a los eventos y crear mi perfil.                   | 
+|             | Gestión de usuario           | Historia de Usuario 2:  Editar Perfil.                                  | Como usuario, quiero poder editar mi perfil para mantener actualizada mi información y mis intereses tecnológicos.       | 
+| | Gestión de usuario           | Historia de Usuario 3: Visualizacion de perfiles.                                 | Como usuario, quiero poder ver otros perfiles para conocer a los participantes y establecer conexiones. | 
+|             | Creación y Gestión de Eventos        | Historia de Usuario 4: Creación de Evento | Como organizador, quiero crear un evento para compartir mis conocimientos y conectarse con otros profesionales.            | 
+| | Creación y Gestión de Eventos          | Historia de Usuario 5: Edición de Evento.                           | Como organizador, quiero editar los detalles de un evento para asegurarme de que la información esté actualizada .| 
+|             | Creación y Gestión de Eventos          | Historia de Usuario 6: Cancelación de Evento. | Como organizador, quiero cancelar un evento si es necesario para mantener la transparencia con los participantes.                          | 
 
 
-| Integrante  | Módulo                       | Historia de Usuario                                                   | Descripción                                                                                                                                      | Tipo  |
-|-------------|------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-------|
-| Integrante 1| Gestión de usuario       | Historia de Usuario 1: Registro de usuario.                              | Como usuario, quiero registrarme en la plataforma para poder acceder a los eventos y crear mi perfil.                   | CRUD  |
-|             | Gestión de usuario           | Historia de Usuario 2:  Editar Perfil.                                  | Como usuario, quiero poder editar mi perfil para mantener actualizada mi información y mis intereses tecnológicos.       | CRUD  |
-| | Gestión de usuario           | Historia de Usuario 3: Visualizacion de perfiles.                                 | Como usuario, quiero poder ver otros perfiles para conocer a los participantes y establecer conexiones. | CRUD  |
-|             | Creación y Gestión de Eventos        | Historia de Usuario 4: Creación de Evento | Como organizador, quiero crear un evento para compartir mis conocimientos y conectarse con otros profesionales.            | CRUD  |
-| | Creación y Gestión de Eventos          | Historia de Usuario 5: Edición de Evento.                           | Como organizador, quiero editar los detalles de un evento para asegurarme de que la información esté actualizada                                          | CRUD  |
-|             | Creación y Gestión de Eventos          | Historia de Usuario 6: Cancelación de Evento. | Como organizador, quiero cancelar un evento si es necesario para mantener la transparencia con los participantes.                          | CRUD  |
+**Sprint 2:** 
 
+ 
+| Integrante  | Módulo                       | Historia de Usuario                                                   | Descripción                                                                                                                                      |  
+|-------------|------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| Integrante 1| Inscripción y Participación en Meetups      | Historia de Usuario 1: Búsqueda de Eventos.                              | Como usuario, quiero buscar eventos según mis intereses y ubicación para encontrar oportunidades relevantes.                  |  
+|             | Inscripción y Participación en Meetups         | Historia de Usuario 2:  Inscripción a Eventos.                                | Como usuario, quiero inscribirme a eventos de mi interés para participar y aprender de otros profesionales.    | 
+| | Gestión de usuario           | Historia de Usuario 3: Notificaciones de Eventos,                                | Como usuario, quiero recibir notificaciones sobre eventos a los que me he inscrito para no perderme información importante. | 
+|             | Pagos en línea       | Historia de Usuario 4: Pago por Eventos Premium | Como usuario, quiero pagar por eventos premium para acceder a charlas exclusivas y talleres.     | 
+| | Pagos en línea          | Historia de Usuario 5: Resumen de Pagos                           | Como organizador, quiero ver un resumen de los pagos realizados para gestionar los ingresos de mis eventos.  | 
+|             | Comentarios        | Historia de Usuario 6: Dejar Comentarios | Como usuario, quiero dejar comentarios sobre los eventos a los que ayudar para compartir mis impresiones y ayudar a otros                    | 
+|             | Comentarios        | Historia de Usuario 7: Visualización de Comentarios | Como organizador, quiero ver los comentarios dejados por los participantes para mejorar futuros eventos.                         | 
 
