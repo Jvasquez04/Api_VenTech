@@ -54,7 +54,7 @@ Mira cómo va avanzando nuestro trabajo visitando el siguiente enlace: [Tablero 
 
  
 | Integrante  | Módulo                       | Historia de Usuario                                                   | Descripción                                                                                                                                      |  
-|-------------|------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------||
+|-------------|------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | Integrante 1| Gestión de usuario       | Historia de Usuario 1: Registro de usuario.                              | Como usuario, quiero registrarme en la plataforma para poder acceder a los eventos y crear mi perfil.                   | 
 |             | Gestión de usuario           | Historia de Usuario 2:  Editar Perfil.                                  | Como usuario, quiero poder editar mi perfil para mantener actualizada mi información y mis intereses tecnológicos.       | 
 | | Gestión de usuario           | Historia de Usuario 3: Visualizacion de perfiles.                                 | Como usuario, quiero poder ver otros perfiles para conocer a los participantes y establecer conexiones. | 
