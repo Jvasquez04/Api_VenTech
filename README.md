@@ -47,4 +47,20 @@ Mira cómo va avanzando nuestro trabajo visitando el siguiente enlace: [Tablero 
 - Estudiantes de Tecnología: Estudiantes que buscan expandir su red profesional y aprender de expertos en el campo.
 - Emprendedores en Tecnología: Fundadores y equipos de startups tecnológicas que desean conectar con potenciales socios, inversores, y mentores.
 
+  
+### Asignación de Historias de Usuario
+
+**Sprint 1:** Funcionalidades Básicas  
+ 
+
+
+| Integrante  | Módulo                       | Historia de Usuario                                                   | Descripción                                                                                                                                      | Tipo  |
+|-------------|------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+| Integrante 1| Gestión de usuario       | Historia de Usuario 1: Registro de usuario.                              | Como usuario, quiero registrarme en la plataforma para poder acceder a los eventos y crear mi perfil.                   | CRUD  |
+|             | Gestión de usuario           | Historia de Usuario 2: Editar Perfil.                                  | Como usuario, quiero poder editar mi perfil para mantener actualizada mi información y mis intereses tecnológicos.       | CRUD  |
+| Integrante 1| Gestión de usuario           | Historia de Usuario 3: Visualizacion de perfiles.                                 | Como usuario, quiero poder ver otros perfiles para conocer a los participantes y establecer conexiones. | CRUD  |
+|             | Creación y Gestión de Eventos        | Historia de Usuario 4: Creación de Evento | Como organizador, quiero crear un evento para compartir mis conocimientos y conectarse con otros profesionales.            | CRUD  |
+| Integrante 3| Creación y Gestión de Eventos          | Historia de Usuario 5: Edición de Evento.                           | Como organizador, quiero editar los detalles de un evento para asegurarme de que la información esté actualizada                                          | CRUD  |
+|             | Creación y Gestión de Eventos          | Historia de Usuario 6: Cancelación de Evento. | Como organizador, quiero cancelar un evento si es necesario para mantener la transparencia con los participantes.                          | CRUD  |
+
 
